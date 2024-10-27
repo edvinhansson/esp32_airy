@@ -1,0 +1,8 @@
+.devcontainer/
+.vscode/
+build/
+main/certs/
+openssl/
+partition_table/
+sdkconfig
+sdkconfig.old

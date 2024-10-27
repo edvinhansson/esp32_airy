@@ -1,0 +1,5 @@
+menu "AIRY"
+config AIRY_NODERED_URL
+    string "URL to where Node-RED instance is running"
+    default "https://localhost:1880"
+endmenu
